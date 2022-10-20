@@ -13,8 +13,6 @@
     ~/.bash_profile:
     ~/.bashrc:
     ~/.dotfiles: ''
-    ~/.emacs.d:
-    ~/.emacs:
     ~/.gitconfig:
     ~/.gitignore_global:
     ~/.gnupg/gpg.conf:
